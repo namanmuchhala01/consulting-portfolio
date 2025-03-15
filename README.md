@@ -8,7 +8,7 @@ Skilled in business analysis, SQL, Power BI, and financial modeling.
 ### 📌 Accenture Branding Strategy (Case Study)  
 - Analyzed Accenture’s branding challenges in Denmark.  
 - Developed employer branding strategies using competitive benchmarking.  
-- **[View Case Study](link-to-project-folder)**  
+- **(Accenture Branding Poster.pdf)**  
 
 ### 📌 Market Entry Strategy – RECYDA (Hackathon)  
 - Advised on U.S. expansion strategy using market research & PESTEL analysis.  
